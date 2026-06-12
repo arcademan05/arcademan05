@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arcademan05
 - 👀 I’m interested in old Apple Computers from the 80s and 90s
-- 🌱 I’m currently learning 6502 assembly language and C#
+- 🌱 I’m currently learning more about Python, JavaScript, and GDScript
 - ⚡ Fun fact: I know pi to the 17th digit
   <!---
 - 💞️ I’m looking to collaborate on ...
